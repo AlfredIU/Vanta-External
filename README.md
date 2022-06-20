@@ -16,5 +16,3 @@ vanta external leak enjoy
 
 
 
-
-
